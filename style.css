@@ -1,0 +1,15 @@
+.img {
+    width: 400px;
+    position: absolute;
+    left: 200px;
+    top: 200px;
+}
+
+.controlElem {
+    width: 10px;
+    height: 10px;
+    border: solid 1px black;
+    background-color: white;
+    position: absolute; 
+    z-index: 10;
+}
